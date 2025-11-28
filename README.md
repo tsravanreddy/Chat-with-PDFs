@@ -31,6 +31,8 @@ This project requires the following prerequisites to be installed:
 - Python 3.6 or higher
 - Pip package manager
 
+test
+
 ### Installation
 
 1. Clone the repository:
